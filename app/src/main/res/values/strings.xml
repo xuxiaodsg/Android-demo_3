@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo_3</string>
+    <string name="b1">Android ListView的用法</string>
+    <string name="b2">创建自定义布局的AlertDialog</string>
+    <string name="b3">使用XML定义菜单</string>
+    <string name="b4">创建上下文操作模式(ActionMode)的上下文菜单</string>
+</resources>
