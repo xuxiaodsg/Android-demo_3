@@ -4,7 +4,7 @@
 
 • 利用SimpleAdapter实现如下界面效果
 
-![image-20211011172508786](README.assets\image-20211011172508786.png)
+![image-20211011172508786](README.assets/image-20211011172508786.png)
 
 #### 关键代码
 
@@ -114,7 +114,7 @@ xml代码
 
 ## 2.创建自定义布局的AlertDialog
 
-![image-20211011172532765](README.assets\image-20211011172532765.png)
+![image-20211011172532765](README.assets/image-20211011172532765.png)
 
 #### 关键代码
 
@@ -255,7 +255,7 @@ xml代码
 
 ## 3.使用XML定义菜单
 
-![image-20211011172553821](README.assets\image-20211011172553821.png)
+![image-20211011172553821](README.assets/image-20211011172553821.png)
 
 #### 关键代码
 
